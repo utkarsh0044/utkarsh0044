@@ -31,7 +31,7 @@ E-commerce Website: Designed and implemented a full-stack e-commerce platform wi
 Decentralized Application (DApp): Built a decentralized application using Ethereum blockchain, Solidity smart contracts, and Web3.js for interacting with the decentralized network.
 
 Get in Touch
-I'm open to collaborations, exciting projects, and opportunities to further enhance my skills. If you have any questions, suggestions, or would like to connect, feel free to reach out to me. You can find my contact information and more details about my work on my personal website: www.utkarshs.com.
+I'm open to collaborations, exciting projects, and opportunities to further enhance my skills. If you have any questions, suggestions, or would like to connect, feel free to reach out to me. 
 
 Let's innovate, create, and shape the future of technology together!
 
